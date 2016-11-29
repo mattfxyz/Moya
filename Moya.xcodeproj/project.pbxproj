@@ -872,6 +872,7 @@
 					};
 					091F0D331BDE998F009D0A49 = {
 						CreatedOnToolsVersion = 7.1;
+						LastSwiftMigration = 0810;
 					};
 					091F0D431BDE9A01009D0A49 = {
 						CreatedOnToolsVersion = 7.1;
@@ -1753,6 +1754,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = org.cocoapods.Moya;
 				PRODUCT_NAME = Moya;
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 2.3;
 			};
 			name = Debug;
 		};
@@ -1775,6 +1777,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = org.cocoapods.Moya;
 				PRODUCT_NAME = Moya;
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 2.3;
 			};
 			name = Release;
 		};
